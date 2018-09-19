@@ -1,0 +1,8 @@
+# Input file:
+# In the first row specify the number of machines
+# One row for each job
+# In each row, for every operation first specify the machine number performing the operation,
+# than the operation duration.
+
+# Usage:
+Java Main < file.txt
